@@ -7,7 +7,7 @@ npm install
 
 ### Build the resources
 ```
-npm build
+npm run build
 ```
 
 ### open the `index.html`
